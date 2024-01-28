@@ -36,11 +36,11 @@ Experienced Data Science professional with expertise in C, Python, and SQL. Back
 
 ## Certifications
 - AWS Certified Solutions Architect Associate
-  : Udemy
+  , Udemy
 - Google Data Analytics Professional Certificate
-  : Google 
+  , Google 
 - Pega Certified Senior System Architect
-  : Pegasystems 
+  , Pegasystems 
 
 ## Skills
 - Technical Skills: Python, Java, C/C++, CSS/HTML, JavaScript, R, PL/SQL, Microsoft SQL Server,
