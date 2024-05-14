@@ -59,3 +59,6 @@ The primary target for the machine learning models in this project is the class.
 
 ### Features/Predictors for ML Models
 Temperature, relative humidity (RH), wind speed (Ws), rainfall (Rain), Fire Weather Index (FWI), FFMC, DMC, DC, ISI, BUI, Region
+
+
+### Model Training:
