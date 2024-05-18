@@ -9,10 +9,9 @@
 - **Powerpoint Presentation:** https://drive.google.com/drive/u/1/folders/1_XYns2LSJUQjaAY9mD2tYb4HePaEg--S
 
 
-## 2.BACKGROUND
+## 2. BACKGROUND
 
-
-* Forest Fire Prediction System gives the most accurate predictions of when fire can take place using data-driven techniques and machine learning models.
+Forest Fire Prediction System gives the most accurate predictions of when fire can take place using data-driven techniques and machine learning models.
 Why does it matter ?
 1. **Early Warning and Prevention:** By accurately predicting the likelihood of forest fires, these systems enable authorities to take proactive measures to prevent fires from occurring or to mitigate their impact. 
 2. **Resource Allocation:** Forest fire prediction systems help in allocating firefighting resources effectively. By identifying areas at high risk of fire, authorities can strategically deploy firefighting crews, equipment, and aircraft to those locations, improving response times and minimizing damage.
@@ -22,7 +21,7 @@ Why does it matter ?
 2. How do different environmental factors, such as weather conditions, vegetation type, and topography, influence the spread and intensity of forest fires?
 3. What role can remote sensing technologies, such as satellite imagery and unmanned aerial vehicles (UAVs), play in enhancing forest fire prediction and monitoring?
 
-## 3.DATA
+## 3. DATA
 
 - **Data sources:** [Algerian Forest Fires from UCI](https://archive.ics.uci.edu/dataset/547/algerian+forest+fires+dataset)
 - **Data size:** 12.9 KB
@@ -34,8 +33,6 @@ Why does it matter ?
 
 ### Data Dictionary
 
-Algerian_forest_fires_dataset_UPDATE.csv
-
 | day | month | year | Temperature | RH | Ws | Rain | FFMC | DMC | DC | ISI | BUI | FWI | Classes | Region |
 |-----|-------|------|-------------|----|----|------|------|-----|----|-----|-----|-----|---------|--------|
 | 1   | 6     | 2012 | 29          | 57 | 18 | 0.0  | 65.7 | 3.4 | 7.6 | 1.3 | 3.4 | 0.5 | 0       | 1      |
@@ -45,14 +42,25 @@ Algerian_forest_fires_dataset_UPDATE.csv
 | 5   | 6     | 2012 | 27          | 77 | 16 | 0.0  | 64.8 | 3.0 | 14.2| 1.2 | 3.9 | 0.5 | 0       | 1      |
 | ... | ...   | ...  | ...         | ...| ...| ...  | ...  | ... | ... | ... | ... | ... | ...     | ...    |
 
-Each row represents a single observation with various features such as day, month, year, temperature, relative humidity (RH), wind speed (Ws), rainfall (Rain), Fire Weather Index (FWI), etc. The last two columns, "Classes" and "Region," denote the fire classes and the region, respectively.
-  
-  
-### Target/Label
+
+#### Target/Label
 The primary target for the machine learning models in this project is the class. 
 
-### Features/Predictors
-Temperature, relative humidity (RH), wind speed (Ws), rainfall (Rain), Fire Weather Index (FWI), FFMC, DMC, DC, ISI, BUI, Region
+#### Features/Predictors
+- Temperature
+- relative humidity (RH)
+- wind speed (Ws)
+- rainfall (Rain)
+- Fire Weather Index (FWI)
+- FFMC
+- DMC
+- DC
+- ISI
+- BUI
+- Region
 
+## EDA
+- Month wise Fire Analysis for Bejaia Region
 
+- Month wise Fire Analysis for Sidi-Bel Abbes Region
 ### Model Training:
