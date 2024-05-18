@@ -13,14 +13,11 @@
 
 
 * Forest Fire Prediction System gives the most accurate predictions of when fire can take place using data-driven techniques and machine learning models.
-
-   Why does it matter ?
-
+Why does it matter ?
 1. **Early Warning and Prevention:** By accurately predicting the likelihood of forest fires, these systems enable authorities to take proactive measures to prevent fires from occurring or to mitigate their impact. 
 2. **Resource Allocation:** Forest fire prediction systems help in allocating firefighting resources effectively. By identifying areas at high risk of fire, authorities can strategically deploy firefighting crews, equipment, and aircraft to those locations, improving response times and minimizing damage.
 
-
-** Research Questions:**
+**Research Questions:**
 1. How can machine learning algorithms be optimized to improve the accuracy and reliability of forest fire prediction models?
 2. How do different environmental factors, such as weather conditions, vegetation type, and topography, influence the spread and intensity of forest fires?
 3. What role can remote sensing technologies, such as satellite imagery and unmanned aerial vehicles (UAVs), play in enhancing forest fire prediction and monitoring?
