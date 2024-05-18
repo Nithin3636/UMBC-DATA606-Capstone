@@ -1,12 +1,12 @@
 ## 1. FOREST FIRE PREDICTION SYSTEM
 
-- Project Title: FOREST FIRE PREDICTION SYSTEM
-- Prepared for: UMBC Data Science Master Degree Capstone by Dr Chaoji (Jay) Wang 
-- Author: Nithin Kumar Allam
-- GitHub: https://github.com/Nithin3636
-- Linkedin: https://www.linkedin:in/nithin-allam
-- Youtube Video : https://youtu.be/A-moASKun9U
-- Powerpoint Presentation : https://drive.google.com/drive/u/1/folders/1_XYns2LSJUQjaAY9mD2tYb4HePaEg--S
+- **Project Title:** FOREST FIRE PREDICTION SYSTEM
+- **Prepared for:** UMBC Data Science Master Degree Capstone by Dr Chaoji (Jay) Wang 
+- **Author:** Nithin Kumar Allam
+- **GitHub:** https://github.com/Nithin3636
+- **Linkedin:** https://www.linkedin:in/nithin-allam
+- **Youtube Video:** https://youtu.be/A-moASKun9U
+- **Powerpoint Presentation:** https://drive.google.com/drive/u/1/folders/1_XYns2LSJUQjaAY9mD2tYb4HePaEg--S
 
 
 ## 2.BACKGROUND
@@ -20,13 +20,10 @@
 2. **Resource Allocation:** Forest fire prediction systems help in allocating firefighting resources effectively. By identifying areas at high risk of fire, authorities can strategically deploy firefighting crews, equipment, and aircraft to those locations, improving response times and minimizing damage.
 
 
-* Research Questions :
-
+** Research Questions:**
 1. How can machine learning algorithms be optimized to improve the accuracy and reliability of forest fire prediction models?
 2. How do different environmental factors, such as weather conditions, vegetation type, and topography, influence the spread and intensity of forest fires?
-3.  What role can remote sensing technologies, such as satellite imagery and unmanned aerial vehicles (UAVs), play in enhancing forest fire prediction and monitoring?
-
-
+3. What role can remote sensing technologies, such as satellite imagery and unmanned aerial vehicles (UAVs), play in enhancing forest fire prediction and monitoring?
 
 ## 3.DATA
 
@@ -54,10 +51,10 @@ Algerian_forest_fires_dataset_UPDATE.csv
 Each row represents a single observation with various features such as day, month, year, temperature, relative humidity (RH), wind speed (Ws), rainfall (Rain), Fire Weather Index (FWI), etc. The last two columns, "Classes" and "Region," denote the fire classes and the region, respectively.
   
   
-### Target/Label in ML Model
+### Target/Label
 The primary target for the machine learning models in this project is the class. 
 
-### Features/Predictors for ML Models
+### Features/Predictors
 Temperature, relative humidity (RH), wind speed (Ws), rainfall (Rain), Fire Weather Index (FWI), FFMC, DMC, DC, ISI, BUI, Region
 
 
