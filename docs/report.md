@@ -1,4 +1,4 @@
- #1.FOREST FIRE PREDICTION SYSTEM
+##1.FOREST FIRE PREDICTION SYSTEM
 
 - Project Title: FOREST FIRE PREDICTION SYSTEM
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaoji (Jay) Wang 
