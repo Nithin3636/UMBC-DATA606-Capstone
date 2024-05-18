@@ -1,16 +1,13 @@
 # FOREST FIRE PREDICTION SYSTEM
-- Prepared for UMBC Data Science Master Degree Capstone by Dr Chaoji (Jay) Wang - SPRING 2024 Semester
+- Prepared for: UMBC Data Science Master Degree Capstone by Dr Chaoji (Jay) Wang - SPRING 2024 Semester
 - Author: Nithin Kumar Allam
 - GitHub: https://github.com/Nithin3636
 - Linkedin: https://www.linkedin:in/nithin-allam
 
 
 ## BACKGROUND
-
-
-* Forest Fire Prediction System gives the most accurate predictions of when fire can take place using data-driven techniques and machine learning models.
-
-   Why does it matter ?
+Forest Fire Prediction System gives the most accurate predictions of when fire can take place using data-driven techniques and machine learning models.
+Why does it matter ?
 
 1. **Early Warning and Prevention:** By accurately predicting the likelihood of forest fires, these systems enable authorities to take proactive measures to prevent fires from occurring or to mitigate their impact. 
 2. **Resource Allocation:** Forest fire prediction systems help in allocating firefighting resources effectively. By identifying areas at high risk of fire, authorities can strategically deploy firefighting crews, equipment, and aircraft to those locations, improving response times and minimizing damage.
@@ -36,8 +33,6 @@
 
 ### Data Dictionary
 
-Algerian_forest_fires_dataset_UPDATE.csv
-
 | day | month | year | Temperature | RH | Ws | Rain | FFMC | DMC | DC | ISI | BUI | FWI | Classes | Region |
 |-----|-------|------|-------------|----|----|------|------|-----|----|-----|-----|-----|---------|--------|
 | 1   | 6     | 2012 | 29          | 57 | 18 | 0.0  | 65.7 | 3.4 | 7.6 | 1.3 | 3.4 | 0.5 | 0       | 1      |
@@ -47,7 +42,6 @@ Algerian_forest_fires_dataset_UPDATE.csv
 | 5   | 6     | 2012 | 27          | 77 | 16 | 0.0  | 64.8 | 3.0 | 14.2| 1.2 | 3.9 | 0.5 | 0       | 1      |
 | ... | ...   | ...  | ...         | ...| ...| ...  | ...  | ... | ... | ... | ... | ... | ...     | ...    |
 
-Each row represents a single observation with various features such as day, month, year, temperature, relative humidity (RH), wind speed (Ws), rainfall (Rain), Fire Weather Index (FWI), etc. The last two columns, "Classes" and "Region," denote the fire classes and the region, respectively.
   
   
 ### Target/Label in ML Model
