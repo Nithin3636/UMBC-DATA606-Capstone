@@ -1,12 +1,12 @@
-## 1.FOREST FIRE PREDICTION SYSTEM
+## 1. FOREST FIRE PREDICTION SYSTEM
 
 - Project Title: FOREST FIRE PREDICTION SYSTEM
-- Prepared for UMBC Data Science Master Degree Capstone by Dr Chaoji (Jay) Wang 
+- Prepared for: UMBC Data Science Master Degree Capstone by Dr Chaoji (Jay) Wang 
 - Author: Nithin Kumar Allam
 - GitHub: https://github.com/Nithin3636
 - Linkedin: https://www.linkedin:in/nithin-allam
 - Youtube Video : https://youtu.be/A-moASKun9U
--  Powerpoint Presentation : https://drive.google.com/drive/u/1/folders/1_XYns2LSJUQjaAY9mD2tYb4HePaEg--S
+- Powerpoint Presentation : https://drive.google.com/drive/u/1/folders/1_XYns2LSJUQjaAY9mD2tYb4HePaEg--S
 
 
 ## 2.BACKGROUND
