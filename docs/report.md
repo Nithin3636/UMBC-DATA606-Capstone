@@ -1,4 +1,4 @@
-1. # FOREST FIRE PREDICTION SYSTEM
+ #1.FOREST FIRE PREDICTION SYSTEM
 
 - Project Title: FOREST FIRE PREDICTION SYSTEM
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaoji (Jay) Wang 
@@ -9,7 +9,7 @@
 -  Powerpoint Presentation : https://drive.google.com/drive/u/1/folders/1_XYns2LSJUQjaAY9mD2tYb4HePaEg--S
 
 
-2. ## BACKGROUND
+##2.BACKGROUND
 
 
 * Forest Fire Prediction System gives the most accurate predictions of when fire can take place using data-driven techniques and machine learning models.
@@ -28,7 +28,7 @@
 
 
 
-3. ## DATA
+##3.DATA
 
 - **Data sources:** [Algerian Forest Fires from UCI](https://archive.ics.uci.edu/dataset/547/algerian+forest+fires+dataset)
 - **Data size:** 12.9 KB
