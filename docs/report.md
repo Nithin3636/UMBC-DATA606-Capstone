@@ -62,7 +62,8 @@ The primary target for the machine learning models in this project is the class.
 ## EDA
 - Month wise Fire Analysis for Bejaia Region
 - ![image](https://github.com/Nithin3636/UMBC-DATA606-Capstone/assets/145934081/9e226919-62ea-4aaf-b170-94b3e581f694)
-
-
+  
 - Month wise Fire Analysis for Sidi-Bel Abbes Region
+- ![image](https://github.com/Nithin3636/UMBC-DATA606-Capstone/assets/145934081/68cda265-14e1-4913-be3a-5416bf6bd6cb)
+
 ### Model Training:
