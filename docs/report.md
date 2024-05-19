@@ -60,10 +60,26 @@ The primary target for the machine learning models in this project is the class.
 - Region
 
 ## EDA
-- Month wise Fire Analysis for Bejaia Region
-- ![image](https://github.com/Nithin3636/UMBC-DATA606-Capstone/assets/145934081/9e226919-62ea-4aaf-b170-94b3e581f694)
-  
-- Month wise Fire Analysis for Sidi-Bel Abbes Region
-- ![image](https://github.com/Nithin3636/UMBC-DATA606-Capstone/assets/145934081/68cda265-14e1-4913-be3a-5416bf6bd6cb)
+| [Month wise Fire Analysis for Bejaia Region] | [Month wise Fire Analysis for Sidi-Bel Abbes Region] |
+|------------------------------|-----------------------|
+| This bar plot depicts the Month wise Fire Analysis for Bejaia Region . | This bar plot depicts the Month wise Fire Analysis for Sidi-Bel Abbes Region. |
+| <img width="337" alt="image" src="https://github.com/Nithin3636/UMBC-DATA606-Capstone/assets/145934081/11f12b3c-7d86-4dfb-97ad-6e8f8785e07f"> | <img width="337" alt="image" src="https://github.com/Nithin3636/UMBC-DATA606-Capstone/assets/145934081/8d347a78-9a97-46a2-aee2-49a3f97e2008"> |
 
-### Model Training:
+| [Class Distributions \n 0: No Fire 1: Fire] | [Pie Chart of Classes] |
+|------------------------------|-----------------------|
+| This bar plot depicts the Class Distributions  . |Pie Chart of Classes. |
+| <img width="337" alt="image" src="https://github.com/Nithin3636/UMBC-DATA606-Capstone/assets/145934081/6656c471-01e4-4949-8390-f96229f6f48a"> | <img width="337" alt="image" src="https://github.com/Nithin3636/UMBC-DATA606-Capstone/assets/145934081/4a487fef-7c6e-4b4c-bfe8-f1117ffb89e8"> |
+
+
+
+## Model Training
+
+### 1. Models for Predictive Analytics:
+
+### 2. Training Procedure:
+
+### 3. Python Packages:
+
+### 4. Development Environments:
+
+## Conclusion
