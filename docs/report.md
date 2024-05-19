@@ -5,8 +5,8 @@
 - **Author:** Nithin Kumar Allam
 - **GitHub:** https://github.com/Nithin3636
 - **Linkedin:** https://www.linkedin:in/nithin-allam
-- **Youtube Video:** https://youtu.be/A-moASKun9U
 - **Powerpoint Presentation:** https://drive.google.com/drive/u/1/folders/1_XYns2LSJUQjaAY9mD2tYb4HePaEg--S
+- **Youtube Video:** https://youtu.be/A-moASKun9U
 
 
 ## 2. BACKGROUND
@@ -44,7 +44,7 @@ Why does it matter ?
 
 
 #### Target/Label
-The primary target for the machine learning models in this project is the class. 
+The primary target for the machine learning models in this project is the classes. 
 
 #### Features/Predictors
 - Temperature
@@ -59,7 +59,7 @@ The primary target for the machine learning models in this project is the class.
 - BUI
 - Region
 
-## EDA
+## 4. Exploratory Data Analysis (EDA)
 | [Month wise Fire Analysis for Bejaia Region] | [Month wise Fire Analysis for Sidi-Bel Abbes Region] |
 |------------------------------|-----------------------|
 | This bar plot depicts the Month wise Fire Analysis for Bejaia Region . | This bar plot depicts the Month wise Fire Analysis for Sidi-Bel Abbes Region. |
