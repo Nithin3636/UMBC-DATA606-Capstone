@@ -72,14 +72,33 @@ The primary target for the machine learning models in this project is the class.
 
 
 
-## Model Training
+## 5. Model Training
 
-### 1. Models for Predictive Analytics:
+### Models for Predictive Analytics:
+- Random Forest: An ensemble method that uses multiple decision trees to make a prediction, providing robustness and reducing the risk of overfitting.
+- XGBoost: A gradient boosting framework that uses decision trees and is highly efficient, scalable, and typically provides higher performance.
 
-### 2. Training Procedure:
+### Training Procedure:
+We will use an 80/20 split for our training and testing data to ensure sufficient data for learning while also having a representative test set for model evaluation.
 
-### 3. Python Packages:
+### Python Packages:
+We will utilize scikit-learn for model building, training, and evaluation. This package provides extensive functionalities for data preprocessing, model selection, and evaluation metrics.
 
-### 4. Development Environments:
+### Development Environments:
+Google Colab will be used due to its accessibility and the availability of free GPUs for faster computation, which is beneficial for training complex models like XGBoost.
+### How will you measure and compare the performance of the models?
+- Metrics: We will evaluate our models using accuracy, precision, recall, and the F1 score to comprehensively assess performance across various aspects of classification.
+- Comparison: The performance of Random Forest and XGBoost will be compared based on the mentioned metrics to determine which model performs better in the context of forest fire prediction.
+  
+## 6. Application of the Trained Models
+The web app allows users to interact with our trained forest fire prediction models by inputting environmental parameters and receiving predictions on fire occurrences.
+- Utilized Flask for model deployment. Offers flexibility in integrating machine learning models with web technologies
+- Input: Users can enter data such as temperature, wind speed, and humidity.
+- Output: The app displays the likelihood of a forest fire, assisting in proactive fire management and community safety.
 
-## Conclusion
+## 7. Conclusion
+Developed predictive models (Random Forest and XGBoost) to forecast forest fire occurrences based on environmental data from the Algerian Forest Fires dataset. Evaluated models based on accuracy, precision, recall, and F1 score, determining the most effective approach for real-world application
+- **Applications:** Support for forest management agencies in fire risk assessment.Tool for community safety awareness and disaster preparedness
+- **Limitations:** Limited data scope only two regions and a short time frame. Model performance dependent on data quality and feature selection.
+- **Lessons learned:** Importance of feature engineering in enhancing model accuracy. Need for robust testing and validation to ensure model reliability
+- **future research:** Expand data collection to include more regions and longer time frames. Explore the integration of satellite imagery and other remote sensing data for enhanced predictive capabilities.
